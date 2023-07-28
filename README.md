@@ -1,4 +1,36 @@
-### Hi there 👋
+### 🙋‍♂️ Introduce
+안녕하세요 **박철현**입니다. 🙇‍♂️
+
+----
+
+### 💻 Skills
+<div>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/SpringBoot-DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+</div>
+
+---
+
+### 📚 Education
+- 👨‍🎓 멋쟁이사자처럼 - 백엔드스쿨 3기 (2023.02.23 ~ 2023.07.14)
+- 🏫 강원대학교 - 컴퓨터과학전공 졸업 (2015.03 ~ 2021.02)
+
+
+---
+
+### 👨 Velog
+<a href="https://velog.io/@puar12">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
+</a>
 
 <!--
 **CheorHyeon/CheorHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
