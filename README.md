@@ -31,8 +31,6 @@
 
 ### 👨 Velog
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/cheorhyeon?theme=light&posts=3)
-
 <a href="https://velog.io/@puar12">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> 
 </a>
